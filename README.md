@@ -9,7 +9,7 @@
   <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img alt="Portfolio" src="https://img.shields.io/badge/3D%20Portfolio-visit-111111?style=flat-square"></a>
 </p>
 
-AI filmmaker, director, technical artist, and small-studio toolmaker based in Shanghai.
+Filmmaker working with AI, director, technical artist, and small-studio toolmaker based in Shanghai.
 
 I make AI-native animated films and the production systems behind them: storyboards, prompt languages, model tests, local-first tools, agent workflows, and small creative interfaces.
 
