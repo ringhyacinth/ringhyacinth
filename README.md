@@ -2,15 +2,11 @@
 
 <p>
   <a href="mailto:ringhyacinth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ringhyacinth%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ringhyacinth"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ringhyacinth-111111?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://x.com/ring_hyacinth"><img alt="X" src="https://img.shields.io/badge/X-ring__hyacinth-111111?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/ringhyacinth/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ringhyacinth-111111?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://weibo.com/u/1309158107"><img alt="Weibo" src="https://img.shields.io/badge/Weibo-海辛Hyacinth-111111?style=flat-square&logo=sinaweibo&logoColor=white"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/648a5137000000002a0360e5"><img alt="Xiaohongshu" src="https://img.shields.io/badge/小红书-海辛Hyacinth-111111?style=flat-square"></a>
   <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img alt="Portfolio" src="https://img.shields.io/badge/3D%20Portfolio-visit-111111?style=flat-square"></a>
-  <img alt="Shanghai" src="https://img.shields.io/badge/Based%20in-Shanghai-111111?style=flat-square">
-</p>
-
-<p align="center">
-  <a href="https://ringhyacinth.github.io/hyacinth.im-site/">
-    <img alt="Ring Hyacinth 3D portfolio plaza" src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/docs/media/homepage-overview.png" width="100%">
-  </a>
 </p>
 
 AI filmmaker, director, technical artist, and small-studio toolmaker based in Shanghai.
@@ -18,16 +14,6 @@ AI filmmaker, director, technical artist, and small-studio toolmaker based in Sh
 I make AI-native animated films and the production systems behind them: storyboards, prompt languages, model tests, local-first tools, agent workflows, and small creative interfaces.
 
 My favorite creative shape is simple: **a tiny action opens a world**. A small gesture enters a museum, a city, an artwork, or a public screen. The story feels light, but the pipeline underneath has to be precise.
-
-## Quick Map
-
-| Field | What I do |
-| --- | --- |
-| Studio | Co-founder of **海辛阿文工作室 / Haixin & Awen Studio** with Simon Lee |
-| Creative work | AI-native short films, city-culture films, museum campaigns, public-screen stories |
-| Technical work | AI video workflows, previs, prompt systems, local creative tools, agent-assisted production |
-| Previous roles | Midjourney CN Content Lead, Morph Studio Product Lead, Luma AI Technical Artist |
-| Training | MFA Film Production, Loyola Marymount University; Public Health, West China School of Medicine, Sichuan University |
 
 ## Selected Public Work
 
@@ -132,16 +118,6 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
 - **Local-first studio infrastructure**: project memory, reference boards, task logs, GitHub sync, private asset boundaries, and small automation tools.
 - **Interfaces for invisible work**: playful frontends that make agent states, creative tasks, and long-running systems easier to understand.
 
-## Toolbox
-
-| Area | Tools / methods I often touch |
-| --- | --- |
-| AI image and video | Midjourney, Kling, Jimeng / SeedDance, Luma, PixVerse, Hailuo, Vidu, Wan, Pika, ComfyUI |
-| Film craft | directing, storyboarding, editing rhythm, music-first structure, visual continuity, public communication |
-| Code and prototypes | JavaScript / Node.js, Python, HTML / CSS, React-style web apps, CLI tools, GitHub APIs |
-| Studio systems | local-first knowledge bases, agent harnesses, reference boards, prompt libraries, production task tracking |
-| Research style | fast model testing, visual reference boards, structured case studies, postmortems after delivery |
-
 ## Current Questions
 
 - How can AI films keep artistic intent through many model steps?
@@ -152,8 +128,31 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
 
 ## Recognition
 
-TED2025 opening film · Best Creative Award, 16th Paris Chinese Film Festival · Best AI Short Film Creator, BJIFF · Silver Award, Beijing Film Academy Animation Academy Awards · Shanghai Internet Quality Content Project · IP Shanghai Gen Z Artist · Weibo V Influence Most AI Creator · ZCOOL Super AI Designer · Alipay AIGC Excellence Innovation Award
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>International screenings and showcases</b><br>
+      <sub>TED2025 opening film · Expo 2025 Osaka · Museum and city landmark public screens</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Festival and film awards</b><br>
+      <sub>Best Creative Award, 16th Paris Chinese Film Festival<br>Best AI Short Film Creator, BJIFF<br>Silver Award, Beijing Film Academy Animation Academy Awards</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Official recognition</b><br>
+      <sub>Shanghai Internet Quality Content Project<br>IP Shanghai Gen Z Artist<br>“My AI Beijing” Master Honor Award and official creator ambassador</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Creator and design community</b><br>
+      <sub>Weibo V Influence Most AI Creator<br>ZCOOL Super AI Designer<br>Alipay AIGC Excellence Innovation Award</sub>
+    </td>
+  </tr>
+</table>
 
-## Contact
+## Background
 
-- Email: [ringhyacinth@gmail.com](mailto:ringhyacinth@gmail.com)
+I run **海辛阿文工作室 / Haixin & Awen Studio** with Simon Lee, a tiny AI animation studio exploring warm, cinematic AI stories and practical production workflows.
+
+I have worked as Midjourney CN Content Lead, Morph Studio Product Lead, and Luma AI Technical Artist. My training crosses film and public health: MFA in Film Production from Loyola Marymount University, and Public Health at West China School of Medicine, Sichuan University.
