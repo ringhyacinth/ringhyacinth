@@ -40,6 +40,11 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
       <sub><a href="https://view.inews.qq.com/a/20260116A01VD200">Creative write-up</a></sub>
     </td>
   </tr>
+  <tr>    <td width="33%" valign="top">
+      <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-morandi-exhibition.webp" alt="MAP x Morandi Exhibition Trailer cover" width="100%"></a><br>
+      <b>《浦美 x 莫兰迪宣传片》</b><br>
+      <sub>MAP x Morandi Exhibition Trailer · Museum of Art Pudong / East Bund Culture · exhibition trailer for “Giorgio Morandi: A Monologue”</sub>
+    </td>
   <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-old-swallow.webp" alt="Swallows Before the Old Halls cover" width="100%"></a><br>
