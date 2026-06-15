@@ -40,12 +40,12 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
       <sub><a href="https://view.inews.qq.com/a/20260116A01VD200">Creative write-up</a></sub>
     </td>
   </tr>
-  <tr>    <td width="33%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-morandi-exhibition.webp" alt="MAP x Morandi Exhibition Trailer cover" width="100%"></a><br>
       <b>《浦美 x 莫兰迪宣传片》</b><br>
-      <sub>MAP x Morandi Exhibition Trailer · Museum of Art Pudong / East Bund Culture · exhibition trailer for “Giorgio Morandi: A Monologue”</sub>
+      <sub>MAP x Morandi Exhibition Trailer · Museum of Art Pudong / East Bund Culture · “Giorgio Morandi: A Monologue” exhibition trailer</sub>
     </td>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-old-swallow.webp" alt="Swallows Before the Old Halls cover" width="100%"></a><br>
       <b>《旧时王谢堂前燕》</b><br>
@@ -56,13 +56,13 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
       <b>《画框之外》</b><br>
       <sub>Beyond the Frame · Kling AI · multi-image reference model campaign film</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-pudong-coffee.webp" alt="Pudong, You Are a Cup of Coffee cover" width="100%"></a><br>
       <b>《浦东你是一杯咖啡》</b><br>
       <sub>Pudong, You Are a Cup of Coffee · Lujiazui International Coffee Culture Festival · public-screen film</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-magic-assistant-cat.webp" alt="Meow Can a Magic Assistant Go Viral cover" width="100%"></a><br>
       <b>《咪：当魔术助理能起号吗》</b><br>
@@ -73,13 +73,13 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
       <b>《掉进前滩的兔子洞》</b><br>
       <sub>Down the Qiantan Rabbit Hole · Pudong Qiantan · Shanghai International Flower Festival film</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-wuhan-twelve-hours.webp" alt="Twelve Hours in Wuhan cover" width="100%"></a><br>
       <b>《武汉十二时辰》</b><br>
       <sub>Twelve Hours in Wuhan · Volcano Engine x Wuhan Culture and Tourism · touring exhibition film</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/assets/posters/section2-paintings-audition.webp" alt="When Masterpieces Audition cover" width="100%"></a><br>
       <b>《当名画来试镜》</b><br>
@@ -90,6 +90,8 @@ Most works below are watchable inside my interactive 3D portfolio plaza: **[ring
       <b>《喜人奇妙夜 2026 全国巡演》</b><br>
       <sub>Super Sketch Show 2026 National Tour · Stand:by & MeWe · large-screen touring content</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://ringhyacinth.github.io/hyacinth.im-site/"><img src="https://raw.githubusercontent.com/ringhyacinth/hyacinth.im-site/main/docs/media/poster-wall.png" alt="3D portfolio plaza poster wall" width="100%"></a><br>
       <b>3D Portfolio Plaza</b><br>
